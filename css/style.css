@@ -1,0 +1,23 @@
+.material-icons{
+    margin-top:10%;
+    padding:0;
+    position: absolute;
+}
+
+.mdl-layout__header{
+    bottom: 0%;
+    top:90.4%;
+    position:absolute;
+}
+
+.mdl-layout__tab-bar
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 100%;
+}
+
+a{
+    font-size: 1px;
+    text-transform: capitalize; 
+}
